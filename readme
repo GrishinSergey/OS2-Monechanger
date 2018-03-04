@@ -1,2 +1,4 @@
 Second lab by operating systems: simple realisation of parallel distributed task: "money changer"
 There"re comments in code (on russian)
+
+One of the reasons for this lab was realisation of the Dekker's synchronisation algorithm.
